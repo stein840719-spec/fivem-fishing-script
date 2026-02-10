@@ -17,6 +17,10 @@ Angel im Shop verkaufen? Füge folgendes in Deinem ESX Shop Script hinzu.
 
 ### INSTALLATION ###
 
-Downloade die Files und schieb diese auf Deinem FiveM Server
-in den "Resources" Ordner, vergiss nicht "ensure Freakys_Angelscript" in
-Deiner server.cfg einzutragen.
+Download Zip
+Entpacke Zip
+Schiebe den Ordner auf Deinen FiveM
+Server und schreibe in Deine Server CFG:
+ensure Freakys_Angelscript
+
+Viel Spass !
