@@ -23,4 +23,4 @@ Schiebe den Ordner auf Deinen FiveM
 Server und schreibe in Deine Server CFG:
 ensure Freakys_Angelscript
 
-Viel Spass !
+## Bilder für die Items hinzugefügt ##
